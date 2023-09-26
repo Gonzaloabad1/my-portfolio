@@ -63,4 +63,12 @@ export const projects = [
       github: "http://github.com/myuser/proyecto5",
       link: "www.proyecto5.com",
     },
+    {
+      title: "Octavo proyecto",
+      description: "tienda desarrollador web",
+      image: "/proyecto10.PNG",
+      tech: ["React", "HTML5", "CSS3", "JavaScript"],
+      github: "http://github.com/myuser/proyecto5",
+      link: "www.proyecto5.com",
+    },
   ];
