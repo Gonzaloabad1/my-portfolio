@@ -2,7 +2,7 @@ export const projects = [
     {
       title: "Primer proyecto",
       description: "Web de Marketing digital",
-      image: "public/proyecto2.PNG",
+      image: "/proyecto2.PNG",
       tech: ["React", "HTML5", "CSS3", "JavaScript"],
       github: "http://github.com/myuser/proyecto1",
       link: "www.proyecto1.com",
@@ -10,7 +10,7 @@ export const projects = [
     {
       title: "Segundo proyecto",
       description: "Tienda online",
-      image: "public/proyecto3.PNG",
+      image: "/proyecto3.PNG",
       tech: ["React", "HTML5", "CSS3", "JavaScript"],
       github: "http://github.com/myuser/proyecto2",
       link: "www.proyecto2.com",
@@ -18,7 +18,7 @@ export const projects = [
     {
       title: "Tercero proyecto",
       description: "Tienda Universo Marvel",
-      image: "public/proyecto4.PNG",
+      image: "/proyecto4.PNG",
       tech: ["React", "HTML5", "CSS3", "JavaScript"],
       github: "http://github.com/myuser/proyecto3",
       link: "www.proyecto3.com",
@@ -26,7 +26,7 @@ export const projects = [
     {
       title: "Cuarto proyecto",
       description: "Esta es la descripción de mi cuarto proyecto",
-      image: "public/proyecto5.PNG",
+      image: "/proyecto5.PNG",
       tech: ["React", "HTML5", "CSS3", "JavaScript"],
       github: "http://github.com/myuser/proyecto4",
       link: "www.proyecto4.com",
@@ -34,7 +34,7 @@ export const projects = [
     {
       title: "Quinto proyecto",
       description: "Web serie X-Men",
-      image: "public/proyecto6.PNG",
+      image: "/proyecto6.PNG",
       tech: ["React", "HTML5", "CSS3", "JavaScript"],
       github: "http://github.com/myuser/proyecto5",
       link: "www.proyecto5.com",
@@ -42,7 +42,7 @@ export const projects = [
     {
       title: "Sexto proyecto",
       description: " Web/Base de Datos Star Wars",
-      image: "public/proyecto7.PNG",
+      image: "/proyecto7.PNG",
       tech: ["React", "HTML5", "CSS3", "JavaScript"],
       github: "http://github.com/myuser/proyecto5",
       link: "www.proyecto5.com",
