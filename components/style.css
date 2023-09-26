@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&family=Roboto:wght@400;900&display=swap');
+
+:root {
+  --primary-dark: whitesmoke;
+  --bg-dark: #111111;
+  --primary-light: #ffffff; /* Cambié el color a blanco para que sea más legible */
+  --bg-light: #4497CF ;
+  --highlight: #4497CF;
+  --divider: rgb(164, 164, 164);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--bg-dark);
+  color: var(--primary-dark);
+  transition: all 0.5s ease-in-out;
+}
+
+.light {
+  background-color: var(--bg-light);
+  color: var(--primary-light);
+}
+
+main {
+  min-height: 80vh;
+}
+
+a,
+p {
+  font-size: 1.1rem;
+}
+
+nav {
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.5rem 3.5rem;
+  background-color: var(--bg-dark);
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+}
+
+nav h1 {
+  color: var(--primary-light); /* Cambié el nombre de la variable */
+}
+
+nav a {
+  color: var(--primary-light); /* Cambié el nombre de la variable */
+  transition: all 0.3s ease; /* Cambié el nombre de la variable */
+}
+
+nav a:hover {
+  color: var(--highlight); /* Cambié el nombre de la variable */
+  border-bottom: 2px solid var(--highlight); /* Cambié el nombre de la variable */
+}
+
+nav ul {
+  display: flex;
+  gap: 3rem;
+}
+
+nav ul li {
+  font-weight: bold; /* Cambié el nombre de la variable */
+}
+
+.habilidades {
+  max-width: 68.75rem;
+  margin: auto;
+  text-align: center;
+  margin-top: 2.5rem;
+}
+
+.encabezado-habilidad {
+  margin-bottom: 1rem;
+}
+
+.contenedor-habilidad img {
+  padding: 1.25rem;
+}
+.icono {
+  height: 10px;
+  width: 10px;
+  display: flex;
+  color: #fff; 
+  vertical-align: auto; /* No es necesario */
+  margin-top: 20px;
+}
+
+
+h1.gradient-text {
+  background-image: linear-gradient(to right, #d15ff1, #2360d1, #c61c79);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  font-size: 72px; /* Tamaño grande del texto */
+  font-weight: bold;
+  text-align: left; /* Centramos el texto horizontalmente */
+  margin-top: 30px; /* Ajustamos el margen superior para que quede centrado verticalmente */
+}
+
