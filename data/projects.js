@@ -64,7 +64,7 @@ export const projects = [
       link: "www.proyecto5.com",
     },
     {
-      title: "Octavo proyecto",
+      title: "Noveno proyecto",
       description: "tienda desarrollador web",
       image: "/proyecto10.PNG",
       tech: ["React", "HTML5", "CSS3", "JavaScript"],
