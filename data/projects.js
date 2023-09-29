@@ -73,7 +73,7 @@ export const projects = [
     },
     {
       title: "Decimo proyecto",
-      description: "tienda desarrollador web",
+      description: "web pelis",
       image: "/proyecto11.PNG",
       tech: ["React", "HTML5", "CSS3", "JavaScript"],
       github: "http://github.com/myuser/proyecto5",
