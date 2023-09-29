@@ -71,7 +71,7 @@ export const projects = [
       github: "http://github.com/myuser/proyecto5",
       link: "www.proyecto5.com",
     },
-       {
+    {
       title: "Decimo proyecto",
       description: "tienda desarrollador web",
       image: "/proyecto11.PNG",
