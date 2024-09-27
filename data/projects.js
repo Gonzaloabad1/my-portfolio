@@ -90,7 +90,7 @@ export const projects = [
     {
       title: "Duodécimo proyecto",
       description: "Web diseño web",
-      image: "/proyecto13.PNG",
+      image: "/proyecto13.jpg",
       tech: ["React", "HTML5", "CSS3", "JavaScript"],
       github: "http://github.com/myuser/proyecto5",
       link: "www.proyecto5.com",
@@ -98,7 +98,7 @@ export const projects = [
        {
       title: "Decimotercer proyecto",
       description: "Marvel heroe favorito",
-      image: "/proyecto14.PNG",
+      image: "/proyecto14.jpg",
       tech: ["React", "HTML5", "CSS3", "JavaScript"],
       github: "http://github.com/myuser/proyecto5",
       link: "www.proyecto5.com",
