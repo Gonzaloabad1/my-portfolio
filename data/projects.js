@@ -106,7 +106,7 @@ export const projects = [
     {
       title: "Decimocuarto proyecto",
       description: "Web cine",
-      image: "/proyecto14.jpg",
+      image: "/pelis.png",
       tech: ["React", "HTML5", "CSS3", "JavaScript"],
       github: "http://github.com/myuser/proyecto5",
       link: "www.proyecto5.com",
@@ -114,7 +114,7 @@ export const projects = [
     {
       title: "Decimoquinto proyecto",
       description: "base datos heroes-villanos",
-      image: "/proyecto14.jpg",
+      image: "/superheroe.png",
       tech: ["React", "HTML5", "CSS3", "JavaScript"],
       github: "http://github.com/myuser/proyecto5",
       link: "www.proyecto5.com",
@@ -122,7 +122,7 @@ export const projects = [
     {
       title: "Decimosexto proyecto",
       description: "Recetas",
-      image: "/proyecto14.jpg",
+      image: "/recetas.png",
       tech: ["React", "HTML5", "CSS3", "JavaScript"],
       github: "http://github.com/myuser/proyecto5",
       link: "www.proyecto5.com",
@@ -130,7 +130,7 @@ export const projects = [
     {
       title: "Decimoseptimo proyecto",
       description: "Resultados futbol",
-      image: "/proyecto14.jpg",
+      image: "/futbol.png",
       tech: ["React", "HTML5", "CSS3", "JavaScript"],
       github: "http://github.com/myuser/proyecto5",
       link: "www.proyecto5.com",
