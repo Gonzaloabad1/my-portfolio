@@ -138,7 +138,7 @@ export const projects = [
      {
       title: "Decimooctavo proyecto",
       description: "Web videojuegos",
-      image: "/images.png",
+      image: "/image.png",
       tech: ["React", "HTML5", "CSS3", "JavaScript"],
       github: "http://github.com/myuser/proyecto5",
       link: "www.proyecto5.com",
