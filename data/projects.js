@@ -1,4 +1,4 @@
-export const projects = [
+Scriptexport const projects = [
     {
       title: "Primer proyecto",
       description: "Web de Marketing digital",
@@ -147,8 +147,8 @@ export const projects = [
       title: "Decimonoveno proyecto",
       description: "app noir",
       image: "/webnoir.png",
-      tech: ["React", "HTML5", "CSS3", "JavaScript"],
+      tech: ["Typescript", "HTML5", "CSS3", "JavaScript"],
       github: "http://github.com/myuser/proyecto5",
-      link: "www.proyecto5.com",
+      link: "",
     },
   ];
