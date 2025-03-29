@@ -146,7 +146,7 @@ Scriptexport const projects = [
       {
       title: "Decimonoveno proyecto",
       description: "app noir",
-      image: "/webnoir.png",
+      image: "/Noir.png",
       tech: ["Typescript", "HTML5", "CSS3", "JavaScript"],
       github: "http://github.com/myuser/proyecto5",
       link: "",
