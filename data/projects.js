@@ -143,12 +143,5 @@ Scriptexport const projects = [
       github: "http://github.com/myuser/proyecto5",
       link: "www.proyecto5.com",
     },
-      {
-      title: "Decimonoveno proyecto",
-      description: "app noir",
-      image: "/Noir.png",
-      tech: ["Typescript", "HTML5", "CSS3", "JavaScript"],
-      github: "http://github.com/myuser/proyecto5",
-      link: "",
-    },
+      
   ];
