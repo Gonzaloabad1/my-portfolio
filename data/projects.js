@@ -145,7 +145,7 @@ Scriptexport const projects = [
     },
        {
       title: "Decimoonoveno proyecto",
-      description: "Web asociación Autismo",
+      description: "Web asociación Autismo.",
       image: "/1.Webautismo.png",
       tech: ["React", "HTML5", "CSS3", "JavaScript"],
       github: "http://github.com/myuser/proyecto5",
