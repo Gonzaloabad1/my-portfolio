@@ -143,5 +143,12 @@ Scriptexport const projects = [
       github: "http://github.com/myuser/proyecto5",
       link: "www.proyecto5.com",
     },
-      
+       {
+      title: "Decimoonoveno proyecto",
+      description: "Web asociación Autismo",
+      image: "/1.Webautismo.png",
+      tech: ["React", "HTML5", "CSS3", "JavaScript"],
+      github: "http://github.com/myuser/proyecto5",
+      link: "www.proyecto5.com",
+    },
   ];
