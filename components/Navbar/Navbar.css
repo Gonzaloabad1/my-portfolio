@@ -10,11 +10,13 @@ nav {
     nav {
     padding: 0 2rem;
     }
+    nav ul {
+  display: flex;
+  gap: 20px; /* Asegúrate de que haya espacio entre botones */
+  list-style: none;
+  align-items: center;
     }
-    nav > ul {
-    display: flex;
-    gap: 3rem;
-    }
+        
     nav button {
     background: none;
     border: none;
