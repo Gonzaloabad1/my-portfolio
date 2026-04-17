@@ -21,9 +21,9 @@ export const Navbar = () => `
 <li>
 <a href="#" id="homelink">Home</a>
 </li>
-<li>
-<a href="https://gonzaloabad-design.vercel.app/" id="weblink">Web</a>
-</li>
+  <li>
+            <a href="https://gonzaloabad-design.vercel.app/" id="weblink" target="_blank">Web</a>
+        </li>
 <li>
 <a href="#" id="projectslink">Projects</a>
 </li>
