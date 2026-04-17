@@ -1,19 +1,3 @@
-import "./Navbar.css";
-export const changeTheme = () => {
-const themeBtn = document.querySelector("#themeBtn");
-themeBtn.addEventListener("click", () => {
-document.body.classList.toggle("light");
-changeText();
-});
-};
-export const changeText = () => {
-const themeBtn = document.querySelector("#themeBtn");
-if (themeBtn.innerText === "☀") {
-    themeBtn.innerText = "☾";
-} else {
-themeBtn.innerText = "☀";
-}
-};
 export const Navbar = () => `
 <nav>
 <h2>Gonzalo Abad</h2>
@@ -21,9 +5,9 @@ export const Navbar = () => `
 <li>
 <a href="#" id="homelink">Home</a>
 </li>
-  <li>
-            <a href="https://gonzaloabad-design.vercel.app/" id="weblink" target="_blank">Web</a>
-        </li>
+<li>
+<a href="https://gonzaloabad-design.vercel.app/" id="weblink" target="_blank">Web</a>
+</li>
 <li>
 <a href="#" id="projectslink">Projects</a>
 </li>
