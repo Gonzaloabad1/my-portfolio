@@ -13,5 +13,14 @@ footer.innerHTML = Footer();
 linkPage("#homelink", Home);
 linkPage("#projectslink", Projects);
 Home();
-changeTheme();
+changeTheme();// Busca donde escuchas los clics del navbar y añade este
+const webLink = document.querySelector("#weblink");
+if (webLink) {
+    webLink.addEventListener("click", (e) => {
+        // Al ser un enlace externo, no queremos que el Router de tu web antigua
+        // intente cargar una página interna. El navegador lo abrirá solo.
+        console.log("Navegando a la web profesional...");
+    });
+}
+
 footer.insertAdjacentHTML("beforebegin", Divider());
