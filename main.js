@@ -1,3 +1,6 @@
+<script>
+  window.location.href = "https://gonzaloabad-design.vercel.app";
+</script>
 import "./style.css";
 import { changeTheme } from "./components/Navbar/Navbar";
 import { linkPage } from "./utils/linkPage";
