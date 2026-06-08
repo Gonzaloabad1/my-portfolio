@@ -152,11 +152,11 @@ export const projects = [
     link: "",
   },
   {
-  title: "Vigésimo proyecto",
-  description: "Web asociación Autismo",
-  image: "/autismo.png",
-  tech: ["React", "HTML5", "CSS3", "JavaScript"],
-  github: "https://github.com/myuser/proyecto20",
-  link: "https://www.proyecto20.com",
-},
+    title: "Vigésimo proyecto",
+    description: "App noir",
+    image: "/webnoir.png",
+    tech: ["TypeScript", "HTML5", "CSS3", "JavaScript"],
+    github: "https://github.com/myuser/proyecto19",
+    link: "",
+  },
 ];
