@@ -154,7 +154,7 @@ export const projects = [
   {
     title: "Vigésimo proyecto",
     description: "App noir",
-    image: "/webnoir.png",
+    image: "/librely.png",
     tech: ["TypeScript", "HTML5", "CSS3", "JavaScript"],
     github: "https://github.com/myuser/proyecto19",
     link: "",
