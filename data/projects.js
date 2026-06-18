@@ -158,5 +158,5 @@ export const projects = [
     tech: ["TypeScript", "HTML5", "CSS3", "JavaScript"],
     github: "https://github.com/myuser/proyecto19",
     link: "",
-  },
+  }
 ];
