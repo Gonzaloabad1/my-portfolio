@@ -129,7 +129,7 @@ export const projects = [
   },
   {
     title: "Decimoséptimo proyecto",
-    description: "Resultados de fútbol",
+    description: "Librely",
     image: "/futbol.png",
     tech: ["React", "HTML5", "CSS3", "JavaScript"],
     github: "https://github.com/myuser/proyecto17",
@@ -151,12 +151,5 @@ export const projects = [
     github: "https://github.com/myuser/proyecto19",
     link: "",
   },
-  {
-    title: "Vigésimo proyecto",
-    description: "App noir",
-    image: "/librely.png",
-    tech: ["TypeScript", "HTML5", "CSS3", "JavaScript"],
-    github: "https://github.com/myuser/proyecto19",
-    link: "",
-  },
+
 ];
