@@ -130,7 +130,7 @@ export const projects = [
   {
     title: "Decimoséptimo proyecto",
     description: "Librely",
-    image: "/futbol.png",
+    image: "/libros.PNG",
     tech: ["React", "HTML5", "CSS3", "JavaScript"],
     github: "https://github.com/myuser/proyecto17",
     link: "https://www.proyecto17.com",
