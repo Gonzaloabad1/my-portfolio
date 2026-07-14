@@ -129,8 +129,8 @@ export const projects = [
   },
   {
     title: "Decimoséptimo proyecto",
-    description: "Librely",
-    image: "/libros.PNG",
+    description: "Web Factura",
+    image: "public/IMG-20260713-WA0008.jpeg",
     tech: ["React", "HTML5", "CSS3", "JavaScript"],
     github: "https://github.com/myuser/proyecto17",
     link: "https://www.proyecto17.com",
